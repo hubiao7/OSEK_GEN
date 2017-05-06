@@ -1,1 +1,2 @@
-# OSEK_GEN
+OSEK Source Generator
+Generation of OS source code for different set of microcontrollers, inluding MSP430, ARM7 TDMI, TSM320F28335 (delfino).
